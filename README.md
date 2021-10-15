@@ -11,7 +11,7 @@ An article clon built for my first project with HTML and CSS.
 
 ## Live Demo
 
-<a href="https://anerlo.github.io/HTML/" target="_blank">Live Demo Link</a>
+<a href="https://anerlo.github.io/HTML-and-CSS" target="_blank">Live Demo Link</a>
 
 ##  Contributing
 
