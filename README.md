@@ -1,6 +1,6 @@
 # Article Clon
 
-An article clon built for my first project with HTML.
+An article clon built for my first project with HTML and CSS.
 
 
 
