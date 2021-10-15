@@ -1,0 +1,40 @@
+:root {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.background {
+  background-image: url("https://i.pinimg.com/originals/68/26/cf/6826cf7624a62cf998978c64be29193f.png");
+  background-position: center;
+  width: 1200px;
+  height: 100px;
+  background-origin: content-box;
+  padding: 150px;
+}
+
+body {
+  background-color: whitesmoke;
+  background-image: none;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: Raleway;
+}
+
+.author {
+  color: whitesmoke;
+  text-align: center;
+  font-family: Raleway;
+}
+
+p {
+  font-size: 20px;
+  font-family: Raleway;
+}
+
+.mindfuck {
+  color: blueviolet;
+}
