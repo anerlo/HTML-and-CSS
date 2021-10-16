@@ -5,13 +5,10 @@
 }
 
 .background {
-  background-image: url("https://i.pinimg.com/originals/68/26/cf/6826cf7624a62cf998978c64be29193f.png");
-  background-position: center;
-  width: 1200px;
-  height: 100px;
-  background-origin: content-box;
-  padding: 150px;
-  border-radius: 40px;
+  background-position: center center;
+  background-repeat: no-repeat
+  background-size: cover;
+  background-color: #97999c;
   box-shadow: 0 0 8px 8px white inset;
 }
 
@@ -22,27 +19,26 @@ body {
 }
 
 h1 {
-  color: white;
+  color: black;
   text-align: center;
   font-family: Raleway;
 }
 
 .author {
-  color: whitesmoke;
+  color: black;
   text-align: left;
   font-family: Raleway;
 }
 
 .text {
-  margin-left: 80px;
-  margin-right: 80px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 p {
-  font-size: 20px;
+  font-size: 14px;
   font-family: Raleway;
 }
 
