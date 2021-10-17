@@ -6,28 +6,35 @@
 
 .background {
   background-position: center center;
-  background-repeat: no-repeat
+  background-repeat: no-repeat;
   background-size: cover;
-  background-color: #97999c;
-  box-shadow: 0 0 8px 8px white inset;
+  background-image: url(https://wallpapercave.com/wp/wp5348839.png);
+  background-color: #d9d9d9;
+  box-shadow: 10px 10px 10px 10px white inset;
 }
 
 body {
-  background-color: whitesmoke;
+  background-color: Snow;
   background-image: none;
   text-align: justify;
+  line-height: 30px;
 }
 
 h1 {
-  color: black;
-  text-align: center;
+  color: whitesmoke;
+  text-align: left;
   font-family: Raleway;
+  margin-left: 30px;
+  padding-top: 100px;
+  padding-bottom: 30px;
 }
 
 .author {
-  color: black;
+  color: whitesmoke;
   text-align: left;
   font-family: Raleway;
+  padding-left: 10px;
+  margin-left: 30px;
 }
 
 .text {
