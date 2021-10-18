@@ -18,6 +18,7 @@
   background-color: black;
   padding: 0px 0px 0px 0px;
   margin: 0px 0px 0px 0px;
+  
 }
 
 .navlogo > a > img {
@@ -67,7 +68,6 @@
   display: inline-block;
   width: 40px;
   height: 50px;
-
 }
 
 #icons {
