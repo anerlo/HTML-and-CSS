@@ -16,16 +16,17 @@
   display: flex;
   justify-content: space-around;
   background-color: black;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
 }
 
 .navlogo > a > img {
   height: 40px;
   width: 55px;
   margin-top: 0;
-  margin-left: -20px;
+  margin-left: 0px;
   padding-top: 20px;
 }
-
 
 
 .navlist {
@@ -34,7 +35,8 @@
   justify-content: space-between;
   font-size: 0.75em;
   font-family: "Antenna", sans-serif;
-  padding-right: 70px;
+  padding-right: 0px;
+  padding-left: 200px;
 }
 
 .navlist > li > a {
@@ -42,6 +44,7 @@
   font-weight: bold;
   text-decoration: none;
   font-size: 105%;
+  margin-left: 2px;
   
 }
 
@@ -51,7 +54,7 @@
 
 .navlist > li {
   list-style-type: none;
-  margin: 5px;
+  margin: 8px;
 }
 
 .navicons > ul {
@@ -85,16 +88,45 @@ body {
   line-height: 30px;
 }
 
+.tags {
+  margin-top: 100px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-size: 13px;
+  padding-top: 20px;
+  padding-bottom: 24px;
+  margin-left: 40px;
+}
+
+#noticias {
+  background-color: #86EA37;
+  padding: 8px;
+  margin: 0px 16px 0px 0px;
+}
+
+#terror {
+  background-color: #86EA37;
+  padding: 8px;
+  margin: 0px 16px 0px 0px;
+}
+
+#anime {
+  background-color: #86EA37;
+  padding: 8px;
+  margin: 0px 16px 0px 0px;
+}
+
+
+
 h1 {
   color: black;
   text-align: left;
   font-family: sans-serif;
-  margin-left: 0px;
-  padding-top: 40px;
-  padding-bottom: 0px;
   font-size: 4.2rem;
   line-height: 1.1;
   font-weight: 500;
+  padding: 0px 0px 30px;
+  margin: 0px 0px 0px 0px;
 }
 
 .author {
