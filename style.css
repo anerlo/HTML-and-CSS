@@ -74,6 +74,7 @@
   list-style: none;
 }
 
+
 .background {
   background-position: center center;
   background-repeat: no-repeat;
@@ -98,10 +99,15 @@ body {
   margin-left: 40px;
 }
 
+
 #noticias {
   background-color: #86EA37;
   padding: 8px;
   margin: 0px 16px 0px 0px;
+}
+
+#noticias:hover {
+  background-color: #9afa4d;
 }
 
 #terror {
@@ -110,10 +116,18 @@ body {
   margin: 0px 16px 0px 0px;
 }
 
+#terror:hover {
+  background-color: #9afa4d;
+}
+
 #anime {
   background-color: #86EA37;
   padding: 8px;
   margin: 0px 16px 0px 0px;
+}
+
+#anime:hover {
+  background-color: #9afa4d;
 }
 
 
@@ -122,7 +136,7 @@ h1 {
   color: black;
   text-align: left;
   font-family: sans-serif;
-  font-size: 4.2rem;
+  font-size: 48px;
   line-height: 1.1;
   font-weight: 500;
   padding: 0px 0px 30px;
@@ -136,7 +150,7 @@ h1 {
   padding-left: 10px;
   margin-left: 30px;
   text-transform: uppercase;
-  font: inherit;
+  font: sans-serif;
   font-size: 0.75em;
   font-weight: 500;
 }
